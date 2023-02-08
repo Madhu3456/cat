@@ -26,9 +26,13 @@ path_for_dataet=/path/to/dir/containing/ohrc_folders_in_pds4_format/
 cropped_images=/path/to/destination/where/cropped/pngs/will/be/saved/
 ```
 --root
+
 ----ohrc1
+
 ----ohrc2
+
 ----ohrc3
+
 2. We divide the .IMG files present in OHRC dataset into small chunks and generate PNGs with shape 256x256. 
 3. We then remove dark patches.
 ### Training the model
