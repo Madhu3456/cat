@@ -1,8 +1,11 @@
 # Inter IIT Tech Meet 11.0 Team 53
-##Reported Metrics(SWINIR-LTE on lr_train_16x):
+## Reported Metrics(SWINIR-LTE on lr_train_16x):
 PSNR: 49.162236700
+
 ISSM: 0
+
 FSIM: 0.42840393111
+
 SSIM: 0.97565720236
 
 ## Verifying Metrics
